@@ -28,7 +28,7 @@ Highly motivated and experienced coding bootcamp graduate with a strong foundati
 
 
 ---
-![counter](https://en4obuk9by5ank6.m.pipedream.net)
+
 
   </div>
 <!--
