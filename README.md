@@ -8,7 +8,7 @@
 ## Orange County/Los Angeles, CA based Software Engineer with a focus on the MERN stack. <br> :tangerine::city_sunset:
 
 ### About Me:
-Highly motivated and experienced coding bootcamp graduate with a strong foundation in modern web technologies including Javascript and Python. Possessing over 4 years of experience in various operational roles within a credit union. A self-driven and quick learner who is continuously seeking to enhance skills and expand knowledge <br>
+Hello there!, I'm a coding bootcamp graduate with a passion for software development. I have experience working with modern web technologies such as JavaScript, React, and Python. I am analytical and a problem-solver with a strong work ethic and a quick learning ability. I enjoy working with a team and am always looking for opportunities to improve my skills and knowledge. <br>
   
 #### Play My Game!
 <kbd>[Name That Movie](https://name-that-movie.herokuapp.com/)</kdb> <br>
