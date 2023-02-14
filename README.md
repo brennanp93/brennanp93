@@ -26,7 +26,7 @@ Highly motivated and experienced coding bootcamp graduate with a strong foundati
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brennan-perez/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brennan.p.perez@gmail.com)
 
-![counter](https://en4obuk9by5ank6.m.pipedream.net)
+
 ---
 
 
