@@ -9,7 +9,11 @@
 
 ### About Me:
 Highly motivated and experienced coding bootcamp graduate with a strong foundation in modern web technologies including Javascript and Python. Possessing over 4 years of experience in various operational roles within a credit union. A self-driven and quick learner who is continuously seeking to enhance skills and expand knowledge <br>
-  ##### Hobbies: 
+  
+#### Play My Game!
+<kbd>[Name That Movie](https://name-that-movie.herokuapp.com/)</kdb> <br>
+
+##### Hobbies: 
   Leather work (belts, wallets, etc...), photography, camping, hiking. 
 ## Technology I currently use: 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
@@ -25,7 +29,6 @@ Highly motivated and experienced coding bootcamp graduate with a strong foundati
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brennan-perez/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:brennan.p.perez@gmail.com)
-
 
 ---
 
