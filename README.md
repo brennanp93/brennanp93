@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- ![](https://i.imgur.com/NPacO2xm.png) -->
-![](https://i.imgur.com/dbTW1AE.png)
+![](https://i.imgur.com/NPacO2xm.png)
+<!-- ![](https://i.imgur.com/dbTW1AE.png) -->
 # Brennan Perez 
 
 
